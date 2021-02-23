@@ -1,4 +1,4 @@
-# JS Fun in the Library
+# Author, Librarian & Programmer: JS Assessment pre-test
 
 ## Overview
 
@@ -30,7 +30,7 @@ problem.
 
 ## Iterations
 
-  - In the src/ directory, you’ll find a file called ‘warm-up.js’. Read through the instructions in the file carefully. The exercises in this file will help you to complete the rest of the iterations
+  - In the src/ directory, you’ll find a file called ‘warm-up.js’. Read through the instructions in the file carefully. The exercises in this file will help you to complete the rest of the iterations. DO NOT MOVE ON TO THE NEXT ITERATION UNTIL THIS SECTION IS COMPLETE!!!
 
 1. Complete the book tests
 
